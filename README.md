@@ -48,7 +48,9 @@ Place the Files: Ensure all necessary data files (.csv, etc.) are in the same fo
 
 Run the Notebook: Execute all the code cells in the notebook in order. All analysis and visualizations will be generated automatically.
 
-About the Author
+
+
+
 Hi, I'm Aliya Nishath! 👋
 
 I am a student of cybersecurity. This project showcases my skills in python and machine learning. You can connect with me on linkedIn [(https://www.linkedin.com/in/aleiah-n-82a6b2375)]
