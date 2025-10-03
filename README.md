@@ -4,7 +4,7 @@ Project Overview:
 The primary objective of this project was to perform an in-depth analysis of a Netflix content dataset to uncover key insights and trends. The project focuses on a complete data science workflow, from raw data to actionable visualizations.
 
 Methodology:
-> The project was conducted in several key phases:
+ The project was conducted in several key phases:
 
 > Data Cleaning & Preprocessing: The raw dataset was loaded and cleaned to handle missing values and correct data types. This ensured the data was accurate and ready for analysis.
 
