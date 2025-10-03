@@ -4,19 +4,19 @@ Project Overview:
 The primary objective of this project was to perform an in-depth analysis of a Netflix content dataset to uncover key insights and trends. The project focuses on a complete data science workflow, from raw data to actionable visualizations.
 
 Methodology:
->>> The project was conducted in several key phases:
+> The project was conducted in several key phases:
 
->>> Data Cleaning & Preprocessing: The raw dataset was loaded and cleaned to handle missing values and correct data types. This ensured the data was accurate and ready for analysis.
+> Data Cleaning & Preprocessing: The raw dataset was loaded and cleaned to handle missing values and correct data types. This ensured the data was accurate and ready for analysis.
 
->>> Exploratory Data Analysis (EDA): A wide range of visualizations was created to explore the dataset. This included analyzing the distribution of content types (Movies vs. TV Shows), identifying the top content-producing countries and directors, and understanding content rating trends.
+> Exploratory Data Analysis (EDA): A wide range of visualizations was created to explore the dataset. This included analyzing the distribution of content types (Movies vs. TV Shows), identifying the top content-producing countries and directors, and understanding content rating trends.
 
->>> Advanced Analysis: The project moved beyond basic analysis to uncover more complex insights. This involved:
+> Advanced Analysis: The project moved beyond basic analysis to uncover more complex insights. This involved:
 
->>> Time-Series Analysis: Analyzing content additions over time to identify monthly and yearly growth trends.
+> Time-Series Analysis: Analyzing content additions over time to identify monthly and yearly growth trends.
 
->>> Genre & Rating Analysis: Examining the relationship between content ratings and genres.
+> Genre & Rating Analysis: Examining the relationship between content ratings and genres.
 
->>> Visualization: Compelling plots were generated to effectively communicate the findings, making the project's insights easy to understand.
+> Visualization: Compelling plots were generated to effectively communicate the findings, making the project's insights easy to understand.
 
 Key Findings:
 Content Mix: The Netflix library in the dataset is primarily composed of Movies.
